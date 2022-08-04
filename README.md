@@ -1,7 +1,7 @@
 # Langind-Page---Unbounce
 Landing Page
 
-Landing page inspirada na imagem abaixo com algumas alterações, como por exemplo, a criação de agluns cards e a adição de um footer.
+Landing page inspirada na imagem abaixo com algumas alterações, uma nova imagem e alguns efeitos de botões, como por exemplo, a criação de agluns cards e a adição de um footer.
 
 
 
